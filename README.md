@@ -1,3 +1,4 @@
+Stock control supervisors ![solana-sol-logo b612f1402147c92338bed5af1879b175](https://github.com/bombastictranz/Solscan-files/assets/110788242/562c53b9-9ecd-410b-ac35-bd993b900592)
 # CRM App
 
 This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
